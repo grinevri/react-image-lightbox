@@ -21,6 +21,8 @@
   "typings": "index.d.ts",
   "files": [
     "dist",
+    "src",
+    "rollup.config.js",
     "index.d.ts",
     "style.css",
     "style.css.map"
