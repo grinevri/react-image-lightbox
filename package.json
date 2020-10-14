@@ -19,6 +19,7 @@
   "main": "dist/index.cjs.js",
   "module": "dist/index.es.js",
   "typings": "index.d.ts",
+  "prepare": "npm install && npm run build",
   "files": [
     ".babelrc",
     "dist",
